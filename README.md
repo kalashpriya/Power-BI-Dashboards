@@ -1,8 +1,4 @@
 # *📊 Power BI Dashboards*
-
-This repository contains interactive **Power BI dashboards** along with the related datasets (CSV files).  
-The goal is to provide clear visual insights into different domains using data-driven storytelling.
-
 ---
 
 ## 📊 Dataset Overview
